@@ -1,0 +1,26 @@
+Scaler,Algorithm,n_clusters,Silhouette Score,Calinski-Harabasz,Davies-Bouldin
+StandardScaler,KMeans,2,0.582,251.349,0.593
+StandardScaler,KMeans,3,0.48,157.36,0.789
+StandardScaler,KMeans,4,0.385,206.681,0.87
+StandardScaler,KMeans,5,0.345,202.636,0.944
+StandardScaler,Agglomerative,2,0.577,240.246,0.592
+StandardScaler,Agglomerative,3,0.447,222.719,0.803
+StandardScaler,Agglomerative,4,0.401,201.251,0.979
+StandardScaler,Agglomerative,5,0.331,192.681,0.974
+StandardScaler,DBSCAN,3,0.357,84.51,7.124
+MinMaxScaler,KMeans,2,0.63,354.366,0.486
+MinMaxScaler,KMeans,3,0.483,351.295,0.787
+MinMaxScaler,KMeans,4,0.444,313.893,0.908
+MinMaxScaler,KMeans,5,0.423,263.173,0.993
+MinMaxScaler,Agglomerative,2,0.63,354.366,0.486
+MinMaxScaler,Agglomerative,3,0.505,349.254,0.748
+MinMaxScaler,Agglomerative,4,0.433,301.104,0.849
+MinMaxScaler,Agglomerative,5,0.349,272.024,0.906
+Normalizer,KMeans,2,0.819,1633.998,0.241
+Normalizer,KMeans,3,0.576,1446.998,0.644
+Normalizer,KMeans,4,0.496,1087.896,0.816
+Normalizer,KMeans,5,0.499,985.188,0.891
+Normalizer,Agglomerative,2,0.819,1633.998,0.241
+Normalizer,Agglomerative,3,0.556,1386.775,0.694
+Normalizer,Agglomerative,4,0.479,1063.773,0.868
+Normalizer,Agglomerative,5,0.466,917.203,0.995
